@@ -1,0 +1,4 @@
+- 👋 meu nime e aline pilsek
+- 👀 estou procurando novas linguagens de programacao
+- 🌱 estou aprendendo linguagens javascrippt e scratch
+- 💞️ meu contato e aline.pilsek.santos@escola.pr.gov.br
